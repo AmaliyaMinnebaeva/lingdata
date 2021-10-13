@@ -1,0 +1,11 @@
+#Keyword Types: 8
+#Keyword Tokens: 12
+#Search Hits: 0
+1	2	+	45.25	0.2857	cluster
+2	2	+	45.25	0.2857	no
+3	2	+	41.43	0.2667	total
+4	2	+	31.84	0.1176	of
+5	1	+	22.53	0.1538	tokens
+6	1	+	22.53	0.1538	types
+7	1	+	22.53	0.1538	verb
+8	1	+	12.2	0.026	понимать
