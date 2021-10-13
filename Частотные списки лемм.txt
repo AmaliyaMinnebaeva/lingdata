@@ -1,3 +1,0 @@
-#Total No. of Cluster Types: 1
-#Total No. of Cluster Tokens: 156
-1	156	1	понимать_verb
